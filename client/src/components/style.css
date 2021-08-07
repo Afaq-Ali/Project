@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkslategray;
+}
+.signin{
+    display: grid;
+    place-items: center;
+    margin-top: 20% ;
+}
+.inpt1{
+    background-color: gainsboro;
+    width: 20%;
+    height: 2em;
+}
+.btn1{
+    margin-top: 10px;
+    height: 2em;
+    width: 10%;
+    background-color: gainsboro;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: gray;
+    background-color:gainsboro ;
+}
+.heading{
+    margin-bottom: 10px;
+    color: honeydew;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    margin: 10px;
+    background-color: gainsboro;
+    width: 20%;
+    height: 2em;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.signout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: gray;
+    margin: 10px;
+    color: gainsboro;
+}
+.btn{
+    width: 10%;
+    height: 2em;
+    background-color: honeydew;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+}
